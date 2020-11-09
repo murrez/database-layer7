@@ -1,2 +1,4 @@
-# database-layer7
-database-layer7
+editlerseniz ananızı sikerim
+
+
+node 7.sj
